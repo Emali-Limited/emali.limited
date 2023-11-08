@@ -309,9 +309,9 @@ textarea {
   list-style: none;
   padding: 0;
 }
-.ui-icon-block {
+/* .ui-icon-block { */
   /* padding-left: 1.3em; */
-}
+/* } */
 .ui-icon-block:before {
   content: "\f00c"; /* FontAwesome Unicode */
   font-family: FontAwesome;

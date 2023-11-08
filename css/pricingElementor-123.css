@@ -30,10 +30,10 @@ header p {
   font-size: 1.1em;
 } */
 
-.content {
+/* .content { */
   /* font-family: "Raleway", sans-serif; */
   /* font-family: "Roboto Condensed", "Helvetica Neue", sans-serif; */
-}
+/* } */
 
 .w-80 {
   width: 60%;
@@ -168,9 +168,9 @@ header p {
     transform: translateY(-33px);
     z-index: 9999;
   }
-  .row > div.pro a.signup {
+  /* .row > div.pro a.signup { */
     /* margin-top: 50px; */
-  }
+  /* } */
   .row > div.pro .tableR {
     box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1), -2px 0 4px rgba(0, 0, 0, 0.1);
   }
